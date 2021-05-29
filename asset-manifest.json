@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/judonghyeok/movie_app_2019/static/css/main.c2065f63.chunk.css",
-    "main.js": "/judonghyeok/movie_app_2019/static/js/main.ba571f8b.chunk.js",
-    "main.js.map": "/judonghyeok/movie_app_2019/static/js/main.ba571f8b.chunk.js.map",
-    "runtime-main.js": "/judonghyeok/movie_app_2019/static/js/runtime-main.c107a9cb.js",
-    "runtime-main.js.map": "/judonghyeok/movie_app_2019/static/js/runtime-main.c107a9cb.js.map",
-    "static/js/2.accd7aee.chunk.js": "/judonghyeok/movie_app_2019/static/js/2.accd7aee.chunk.js",
-    "static/js/2.accd7aee.chunk.js.map": "/judonghyeok/movie_app_2019/static/js/2.accd7aee.chunk.js.map",
-    "index.html": "/judonghyeok/movie_app_2019/index.html",
-    "static/css/main.c2065f63.chunk.css.map": "/judonghyeok/movie_app_2019/static/css/main.c2065f63.chunk.css.map",
-    "static/js/2.accd7aee.chunk.js.LICENSE.txt": "/judonghyeok/movie_app_2019/static/js/2.accd7aee.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2019/static/css/main.c2065f63.chunk.css",
+    "main.js": "/movie_app_2019/static/js/main.ba571f8b.chunk.js",
+    "main.js.map": "/movie_app_2019/static/js/main.ba571f8b.chunk.js.map",
+    "runtime-main.js": "/movie_app_2019/static/js/runtime-main.5a211edb.js",
+    "runtime-main.js.map": "/movie_app_2019/static/js/runtime-main.5a211edb.js.map",
+    "static/js/2.accd7aee.chunk.js": "/movie_app_2019/static/js/2.accd7aee.chunk.js",
+    "static/js/2.accd7aee.chunk.js.map": "/movie_app_2019/static/js/2.accd7aee.chunk.js.map",
+    "index.html": "/movie_app_2019/index.html",
+    "static/css/main.c2065f63.chunk.css.map": "/movie_app_2019/static/css/main.c2065f63.chunk.css.map",
+    "static/js/2.accd7aee.chunk.js.LICENSE.txt": "/movie_app_2019/static/js/2.accd7aee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c107a9cb.js",
+    "static/js/runtime-main.5a211edb.js",
     "static/js/2.accd7aee.chunk.js",
     "static/css/main.c2065f63.chunk.css",
     "static/js/main.ba571f8b.chunk.js"
